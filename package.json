@@ -7,6 +7,9 @@
     "public",
     "lib"
   ],
+  "dependencies": {
+    "next": "11.14.4"
+  },
   "devDependencies": {
     "eslint": "^8.23.0",
     "prettier": "^2.7.1"
