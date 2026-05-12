@@ -1,0 +1,11 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1",
+      "headers": {
+        "x-verifier": "fertilizerferret:1455"
+      }
+    }
+  ]
+}
