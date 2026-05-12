@@ -4,7 +4,7 @@
       "src": "/(.*)",
       "dest": "/$1",
       "headers": {
-        "x-verifier": "fertilizerferret:1455"
+        "x-verifier": "ferret:1455"
       }
     }
   ]
